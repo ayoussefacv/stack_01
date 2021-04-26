@@ -26,7 +26,7 @@
     "nodemailer-smtp-transport": "^2.7.2",
     "phantom": "^4.0.0",
     "pptxgenjs": "^1.4.0",
-    "redis": "^2.6.5",
+    "redis": "^3.1.1",
     "request": "^2.79.0",
     "shelljs": "^0.7.6",
     "underscore": "^1.8.3"
