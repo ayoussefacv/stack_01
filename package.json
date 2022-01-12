@@ -28,7 +28,7 @@
     "pptxgenjs": "^1.4.0",
     "redis": "^2.6.5",
     "request": "^2.79.0",
-    "shelljs": "^0.7.6",
+    "shelljs": "^0.8.5",
     "underscore": "^1.8.3"
   }
 }
