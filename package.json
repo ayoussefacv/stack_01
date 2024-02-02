@@ -22,7 +22,7 @@
     "mongoose-schema-extend": "^0.2.2",
     "morgan": "^1.7.0",
     "multiparty": "^4.1.2",
-    "nodemailer": "^2.7.0",
+    "nodemailer": "^6.9.9",
     "nodemailer-smtp-transport": "^2.7.2",
     "phantom": "^4.0.0",
     "pptxgenjs": "^1.4.0",
